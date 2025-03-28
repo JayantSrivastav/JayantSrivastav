@@ -1,20 +1,18 @@
-### Hi there 👋I'm @JayantSrivastav
+# 💫 About Me:
+👋 Hey there! I'm Jayant Srivastava <br><br>🚀 React Native Developer | Aspiring Product-Based Engineer<br><br>💻 Passionate about front-end and mobile development, I specialize in **React Native** and love building cross-platform applications. I'm currently working in a **service-based company**, but my goal is to transition into a **product-based company** where I can work on high-impact applications.  <br><br>🎯 What I'm Learning & Exploring:  <br>- Mobile Development (React Native, System Design)  <br>- Web Development <br>- Spring Boot<br>- DevOps<br><br>📌 Projects & Interests:  <br>- 🚀 Developing a cross-platform pet adoption app for the Indian market  <br>- 💡 Exploring UI/UX design and prototyping  <br><br>📫 Connect with me:<br>- GitHub: https://github.com/JayantSrivastav  <br>- LinkedIn: https://www.linkedin.com/in/jayant-srivastava-4a887a227/<br>- Email: jayantsrivastava004@gmail.com<br>- Portfolio Website: https://jayantsrivastava-portfolio.vercel.app/<br><br>🔥 Always eager to learn, collaborate, and solve real-world problems! Let's build something awesome together. 😃  <br><br>---<br><br>Let me know if you need any more refinements! 🚀
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jayant-srivastava-4a887a227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayantsrivastava004@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayantSrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JayantSrivastav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSrivastav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=JayantSrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👀 I'm interested in learning Coding, Development and DevOps.
-
-- 🌱 I’m currently learning C/Java and DSA.
-- 👯 I’m looking to collaborate on ...
-
-
-- 📫 How to reach me:
- Twitter: @JayantSrivas1,
-
-     LinkedIn- https://www.linkedin.com/in/jayant-srivastava-4a887a227
-     Portfolio Website- https://jayantsrivastava-portfolio.vercel.app/
- 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
